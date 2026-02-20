@@ -1,0 +1,4 @@
+your-code/config.py
+your-code/__pycache__/
+your-code/.cache
+.DS_Store
